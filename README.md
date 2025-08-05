@@ -95,3 +95,4 @@ Pull requests are welcome! If you plan to extend VIO to other tasks (e.g., prote
 **VIO is proof that you don’t need heavyweight attention mechanisms to solve real problems.** With a compact, Mamba-inspired core and real-world biological application, VIO makes sequence modeling accessible, fast, and effective.
 
 Made with 🔥 by Shaheer
+link to the notebook: https://colab.research.google.com/drive/1HysK-rvyj6QMyfx8sLy49_ghiUuYm33T?usp=sharing
