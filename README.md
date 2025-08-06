@@ -59,7 +59,7 @@ The model:
 ---
 
 ## 🚀 How to Test the Model Yourself
-
+(**NOTE: MAKE SURE TO DOWNLOAD AND THEN UPLOAD THE TEST DATS [test.csv] FILE TO GOOGLE COLLAB OR SAVE IT!**)
 > ### 🧪 Run your own experiments directly in Google Colab:
 * copy the google collab in drive and make sure to upload the test.csv file 
 * then run the codes, Simple as that!
