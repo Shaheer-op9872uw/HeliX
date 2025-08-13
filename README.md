@@ -1,6 +1,6 @@
 # VIO: A Mamba-Inspired Lightweight Architecture for Sequence Modeling
 
-> **DNA mutation classification made simple, fast, and transformer-free.**
+> **DNA mutation classification made simple, fast, and transformer-free.** 
 
 ---
 
